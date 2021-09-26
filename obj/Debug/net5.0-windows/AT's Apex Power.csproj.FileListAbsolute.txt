@@ -1,0 +1,19 @@
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.exe
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.deps.json
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.runtimeconfig.json
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.runtimeconfig.dev.json
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.dll
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\ref\AT's Apex Power.dll
+E:\Data\Projects\VisualStudio\AT's Apex Power\bin\Debug\net5.0-windows\AT's Apex Power.pdb
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.csproj.AssemblyReference.cache
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.csproj.GenerateResource.cache
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.AssemblyInfoInputs.cache
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.AssemblyInfo.cs
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.csproj.CoreCompileInputs.cache
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.dll
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\ref\AT's Apex Power.dll
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.pdb
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT's Apex Power.genruntimeconfig.cache
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT_s_Apex_Power.Properties.Resources.resources
+E:\Data\Projects\VisualStudio\AT's Apex Power\obj\Debug\net5.0-windows\AT_s_Apex_Power.MainForm.resources
